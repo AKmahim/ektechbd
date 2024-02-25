@@ -1891,6 +1891,7 @@ Brand Area
 }
 
 .brand-area .owl-nav .owl-prev {
+  /* padding-top: 1000px; */
   color: #a3a3a3 !important;
   font-size: 20px !important;
   background-color: transparent !important;
@@ -5321,9 +5322,10 @@ Team Area
   margin-right: auto;
 }
 
-.team-area-two .owl-nav .owl-prev {
+/* .team-area-two .owl-nav .owl-prev {
   position: absolute;
-  top: 40%;
+  
+  bottom:-40%;
   left: 0;
   color: #ff3900 !important;
   background-color: transparent !important;
@@ -5401,7 +5403,7 @@ Team Area
   transition: -webkit-transform .4s ease;
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
-}
+} */
 
 .team-card {
   margin-top: 45px;
