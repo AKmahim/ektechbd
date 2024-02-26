@@ -742,7 +742,8 @@ Navbar Area
 
 .sticky-nav .nav-bar-two {
   top: 0;
-  background-color: #2966be;
+  /* background-color: #2966be; */
+  background-color: white;
   position: fixed;
   -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
           box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
@@ -1417,7 +1418,7 @@ Main Banner Area CSS
 }
 
 .banner-area-two {
-  background-image: url(../img/home-two/home-two-bg.png);
+  background-image: url(../img/home-two/home-two-bg2.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
